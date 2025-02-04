@@ -1,4 +1,4 @@
-const readline = require('readline')
+const readline = require('readline');
 
 const Pergunta = {
     perguntar: (mensagem) => {
@@ -9,12 +9,11 @@ const Pergunta = {
             });
 
             rl.question(mensagem + '\n', (resposta) => {
-                resolve(resposta)
-                rl.close()
-            })
-        })
-    }
-}
+                resolve(resposta);
+                rl.close();
+            });
+        });
+    },
+};
 
-
-module.exports = Pergunta
+module.exports = Pergunta;

@@ -26,10 +26,10 @@ const menu = async () => {
                 await TarefaServico.listarTarefa();
                 break;
             case "3":
-                console.log("Você escolheu a Opção 3");
+                await TarefaServico.excluirTarefa();
                 break;
             case "4":
-                console.log("Você escolheu a Opção 4");
+                await TarefaServico.alterarStatusTarefa();
                 break;
             case "5":
                 console.log("Saindo ...");

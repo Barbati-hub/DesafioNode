@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1738610706087,
+    "nomeProduto": "Maracuja",
+    "marca": "Jo Polpa",
+    "preco": "12"
+  },
+  {
+    "id": 1738610773388,
+    "nomeProduto": "Maracuja",
+    "marca": "Jo Polpas",
+    "preco": "12"
+  },
+  {
+    "id": 1738610827817,
+    "nomeProduto": "Arroz",
+    "marca": "Kumbuca",
+    "preco": "29"
+  }
+]
