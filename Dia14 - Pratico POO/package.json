@@ -1,0 +1,15 @@
+{
+  "name": "dia14---pratico-poo",
+  "version": "1.0.0",
+  "description": "Pratico Poo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Douglas - Curso TornseUmProgramador",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
